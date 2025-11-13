@@ -68,7 +68,7 @@ Strengthened understanding of EDA best practices using Python.
 
 Clone this repository:
 
-git clone https://github.com/yourusername/IBM_Netflix_EDA_Project.git
+git clone https://github.com/urankit19/IBM_Netfllix_Eda_project.git
 
 
 Navigate to the project folder:
